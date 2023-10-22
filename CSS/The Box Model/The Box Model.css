@@ -1,0 +1,100 @@
+/*img{
+  height:500px;
+}*/
+
+h2{
+  font-size: 20px;
+}
+
+p{
+  font-size: 18px;
+}
+
+li{
+  font-size: 16px;
+}
+
+#Borders{
+  border: 5px dotted green;
+}
+
+#BorderRadius{
+  border: 10px solid maroon;
+  border-radius: 50px;
+  padding: 20px;
+}
+
+#Padding{
+  border: 5px solid blue;
+  border-radius: 20px;
+  padding: 5px;
+}
+
+#pt{
+  border: 1px solid black;
+  padding-top: 20px;
+}
+
+#pr{
+  border: 1px solid black;
+  padding-right: 20px;
+}
+
+#pb{
+  border: 1px solid black;
+  padding-bottom: 20px;
+}
+
+#pl{
+  border: 1px solid black;
+  padding-left: 20px;
+}
+
+.MarkUpImages{
+  max-width: 75%;
+  height: 75%;
+  overflow: scroll;
+}
+
+.PaddingShorthand{
+  border: 1px solid black;
+}
+
+#4Value{
+  padding: 100px 200px 100px 500px;
+  border: 1px solid black;
+}
+#3Value{
+  border: 1px solid black;
+}
+
+#2Value{
+  padding: 400px 100px;
+  border: 1px solid black;
+}
+#test{
+  border: 1px solid black;
+}
+
+.Margin{
+  width: 500px;
+  height: 500px;
+  padding: 10px 10px;
+  border: 5px solid black;
+  margin: 20px;
+}
+
+#Overflow{
+  height: 100px;
+  overflow: scroll;
+}
+
+#ThirdItem{
+  visibility: hidden;
+}
+#FourthItem{
+  visibility: visible;
+}
+#FifthItem{
+  visibility: collapse;
+}
