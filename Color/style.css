@@ -1,0 +1,38 @@
+#Hexadecimal{
+    color:antiquewhite;
+    background-color:darkblue;
+}
+
+#RGBColors{
+    color: rgb(200, 200, 200);
+    background-color: rgb(0, 0, 0);
+
+}
+
+#HexandRGB{
+    color: black;
+    background-color: aliceblue;
+}
+
+#HueSaturationandLightness{
+    color: hsl(0, 100%, 50%);
+    background-color: hsl(240, 0%, 0%);
+}
+
+#OpacityandAlpha{
+    color: white;
+    background-color: black;
+
+}
+
+#One{
+    background-color: rgba(200, 200, 200, .75);
+
+}
+#Two{
+    background-color: hsla(120, 100%, 50%, .75);
+
+}
+#Three{
+    background-color: #7fffd470;
+}
