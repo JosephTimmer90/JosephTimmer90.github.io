@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Section title</title>
+      <link rel="stylesheet" href="C:\Users\Josep\OneDrive\Documents\Education\Computer Science\JosephTimmer.com\style1.css">
+  </head>
+    <body>
+      <h1>Section title</h1>
+        <h2>Learning goals of the section.</h2>
+          <p>
+            <ol>
+              <li></li>
+              <li></li>
+            </ol>
+          </p>
+
+        <section id="Page 1">
+          <h2>Page 1</h2>
+            <p> 
+              <ul>
+                <li></li>
+                <li></li>
+              </ul>
+            </p>
+        </section>
+
+        <section id="Page 2">
+          <h2>Page 2</h2>
+            <p> 
+              <ul>
+                <li></li>
+                <li></li>
+              </ul>
+            </p>
+        </section>
+
+        <section id="Page 3">
+          <h2>Page 3</h2>
+            <p> 
+              <ul>
+                <li></li>
+                <li></li>
+              </ul>
+            </p>
+        </section>
+
+        <section id="Page 4">
+          <h2>Page 4</h2>
+            <p> 
+              <ul>
+                <li></li>
+                <li></li>
+              </ul>
+            </p>
+        </section>
+
+        <section id="Page 5">
+          <h2>Page 5</h2>
+            <p> 
+              <ul>
+                <li></li>
+                <li></li>
+              </ul>
+            </p>
+        </section>
+
+        <section id="Page 6">
+          <h2>Page 6</h2>
+            <p> 
+              <ul>
+                <li></li>
+                <li></li>
+              </ul>
+            </p>
+        </section>
+
+        <section id="Page 7">
+          <h2>Page 7</h2>
+            <p> 
+              <ul>
+                <li></li>
+                <li></li>
+              </ul>
+            </p>
+        </section>
+
+        <section id="Page 8">
+          <h2>Page 8</h2>
+            <p> 
+              <ul>
+                <li></li>
+                <li></li>
+              </ul>
+            </p>
+        </section>
+
+        <section id="Page 9">
+          <h2>Page 9</h2>
+            <p> 
+              <ul>
+                <li></li>
+                <li></li>
+              </ul>
+            </p>
+        </section>
+
+        <section id="Page 10">
+          <h2>Page 10</h2>
+            <p> 
+              <ul>
+                <li></li>
+                <li></li>
+              </ul>
+            </p>
+        </section>
+
+        <section id="Page 11">
+          <h2>Page 11</h2>
+            <p> 
+              <ul>
+                <li></li>
+                <li></li>
+              </ul>
+            </p>
+        </section>
+
+        <section id="Page 12">
+          <h2>Page 12</h2>
+            <p> 
+              <ul>
+                <li></li>
+                <li></li>
+              </ul>
+            </p>
+        </section>
+
+        <section id="Page 13">
+          <h2>Page 13</h2>
+            <p> 
+              <ul>
+                <li></li>
+                <li></li>
+              </ul>
+            </p>
+        </section>
+
+        <section id="Page 14">
+          <h2>Page 14</h2>
+            <p> 
+              <ul>
+                <li></li>
+                <li></li>
+              </ul>
+            </p>
+        </section>
+
+        <section id="Page 15">
+          <h2>Page 15</h2>
+            <p> 
+              <ul>
+                <li></li>
+                <li></li>
+              </ul>
+            </p>
+        </section>
+
+        <section id="Page 16">
+          <h2>Page 16</h2>
+            <p> 
+              <ul>
+                <li></li>
+                <li></li>
+              </ul>
+            </p>
+        </section>
+
+        <section id="Page 17">
+          <h2>Page 17</h2>
+            <p> 
+              <ul>
+                <li></li>
+                <li></li>
+              </ul>
+            </p>
+        </section>
+
+        <section id="Page 18">
+          <h2>Page 18</h2>
+            <p> 
+              <ul>
+                <li></li>
+                <li></li>
+              </ul>
+            </p>
+        </section>
+
+        <section id="Page 19">
+          <h2>Page 19</h2>
+            <p> 
+              <ul>
+                <li></li>
+                <li></li>
+              </ul>
+            </p>
+        </section>
+
+        <section id="Page 20">
+          <h2>Page 20</h2>
+            <p> 
+              <ul>
+                <li></li>
+                <li></li>
+              </ul>
+            </p>
+        </section>
+
+        <section id = "Home">
+          <a href="C:\Users\Josep\OneDrive\Documents\Education\Computer Science\JosephTimmer.com\Home\JosephTimmer.com.html">
+            <button>Home</button>
+          </a>
+        </section>
+
+
+	<section id = "Notes Home">
+          <a href="C:\Users\Josep\OneDrive\Documents\Education\Computer Science\JosephTimmer.com\Notes\Codecademy Notes.html">
+            <button>Notes Home</button>
+          </a>
+        </section>
+  </body>
+</html>
