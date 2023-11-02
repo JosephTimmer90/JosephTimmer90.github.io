@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Joseph Timmer.com</title>
+		<link rel="stylesheet" href=".\index.css">
+	</head>
+	<body>
+		<h1 class="title">JosephTimmer.com</h1>
+		<p>This webpage is workspace for testing my newly learned web development skills and organizing my notes.</p>
+
+      	<button onclick="changeColor()">Repaint!</button>
+		<a href="C:\Users\Josep\OneDrive\Documents\Education\Computer Science\JosephTimmer.com\Notes\Codecademy Notes.html">
+		<button>Codecademy Notes</button>
+  	</body>
+  
+      	<script>
+        	function getRandomColor(){
+          	let letters = '0123456789ABCDEF';
+          	let color = '#';
+          	for (let i = 0; i < 6; i++) {
+            	color += letters[Math.floor(Math.random() * 16)];
+          	}
+          	return color;
+        	}
+        	function changeColor(){
+          	let newColor = getRandomColor();
+          	document.body.style.backgroundColor = newColor;
+        	}
+    	</script>
+</html>
